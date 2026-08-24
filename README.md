@@ -76,7 +76,7 @@
   </table>
 </div>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.gif" width="32" alt="Projects" />&nbsp; **_Featured Projects_**
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4c2.svg" width="32" alt="Projects" />&nbsp; **_Featured Projects_**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
 
@@ -111,7 +111,7 @@
 - Worked with reinforcement learning environments based on Meta’s **OpenEnv**.
 - Gained exposure to scalable AI systems and development workflows through environments sponsored by Meta.
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dc/512.gif" width="32" alt="Certificate" />&nbsp; **_Certifications_**
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4dc.svg" width="32" alt="Certificate" />&nbsp; **_Certifications_**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
 
@@ -127,7 +127,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit1557&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=06b6d4&text_color=334155" width="48%" alt="Amit's GitHub stats" />
+  <img src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Amit1557&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Amit's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Amit1557&theme=transparent&hide_border=true&ring=2563eb&fire=f97316&currStreakLabel=2563eb" width="48%" alt="Amit's GitHub streak" />
 </div>
 
