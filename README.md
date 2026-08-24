@@ -62,8 +62,8 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" /><br />PyTorch</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" /><br />TensorFlow</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV" /><br />ONNX / CV</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" /><br />Streamlit</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" /><br />NumPy</td>
+      <td align="center" width="100"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="50" alt="Streamlit" /><br />Streamlit</td>
+      <td align="center" width="100"><img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy" /><br />NumPy</td>
     </tr>
     <tr>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" /><br />MySQL</td>
@@ -128,7 +128,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-two-blond-83.vercel.app/api?username=Amit1557&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Amit's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Amit1557&theme=transparent&hide_border=true&ring=2563eb&fire=f97316&currStreakLabel=2563eb" width="48%" alt="Amit's GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amit1557&theme=tokyonight&hide_border=true" width="48%" alt="Amit's GitHub streak" />
 </div>
 
 <br />
