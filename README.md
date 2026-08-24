@@ -48,14 +48,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
 
 <div align="center">
-  <table>
+  <table width="100%" style="table-layout: fixed;">
     <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" /><br />HTML</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" /><br />CSS</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" /><br />JavaScript</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /><br />Python</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" /><br />Java</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" height="50" alt="C" /><br />C/C++</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" /><br />HTML</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" /><br />CSS</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" /><br />JavaScript</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" /><br />Python</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" /><br />Java</td>
+      <td align="center" width="16.66%"><img src="https://skillicons.dev/icons?i=c" height="55" alt="C" /><br />C/C++</td>
     </tr>
     <tr>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" /><br />Flask</td>
