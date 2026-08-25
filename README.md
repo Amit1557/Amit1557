@@ -139,6 +139,20 @@
 
 <br />
 
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f40d.svg" width="32" alt="Snake" />&nbsp; **_Contribution Snake_**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amit1557/Amit1557/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amit1557/Amit1557/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Amit1557/Amit1557/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amit1557&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
 </div>
