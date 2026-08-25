@@ -134,7 +134,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit1557&bg_color=ffffff00&color=334155&line=2563eb&point=06b6d4&area=true&hide_border=true" width="100%" alt="Amit's GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit1557&theme=github_dark" width="100%" alt="Amit's GitHub activity graph" />
 </div>
 
 <br />
